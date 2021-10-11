@@ -1,30 +1,33 @@
-> Open this page at [https://mariaolekheyko.github.io/new/](https://mariaolekheyko.github.io/new/)
+# Minecraft 2019 Hour of Code™ Extension [![Build Status](https://travis-ci.org/Microsoft/pxt-minecraft-hoc2019.svg?branch=master)](https://travis-ci.org/Microsoft/pxt-minecraft-hoc2019)
 
-## Use this extension
+This repo has additional blocks and api for Minecraft 2019 Hour of Code™ experience.  
 
-This repository can be added as an **extension** in MakeCode.
+Hour of Code™ is a trademark of Code.org.
 
-* open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/mariaolekheyko/new** and import
+## Usage
 
-## Edit this extension ![Build status badge](https://github.com/mariaolekheyko/new/workflows/MakeCode/badge.svg)
+TODO
 
-To edit this repository in MakeCode.
+## License
 
-* open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/mariaolekheyko/new** and click import
+MIT
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/mariaolekheyko/new/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
+## Supported targets
 
 * for PXT/minecraft
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+(The metadata above is needed for package search.)
+
+
+## Contributing
+
+This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide
+a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
+provided by the bot. You will only need to do this once across all repos using our CLA.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
