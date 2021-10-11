@@ -23,7 +23,6 @@ jobs:
           pxt target microbit
       - name: build
         run: |
-          pxt install
           pxt build --cloud
         env:
           CI: true
